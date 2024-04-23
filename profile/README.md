@@ -6,7 +6,7 @@
 - [Docker Workshop](https://kubedaily.com/docs/docker/)
 - [Container Security](https://kubedaily.com/docs/containersecurity/)
 - [Kubernetes Workshop](https://kubedaily.com/docs/kubernetes/)
-- [Helm Workshop] - Todo 
+- [Helm Workshop](https://kubedaily.com/docs/helm/) 
 
 [Collection of CloudNative OSS tools](https://github.com/kubernetesdaily/cloudnativetools) 
 ➡️ [Submit Your Favourite Tool](https://forms.gle/oEnLicsNtsdpRRHN8)
